@@ -1,0 +1,15 @@
+#
+# Aqui van mis pruebas simples
+#
+#el primer numero es el valor esperado y separados por espacios van los numeros del arreglo
+#
+9 7 8 9
+9 7 9 8
+9 9 7 8
+#
+#Revisar valores negativos
+#
+-7 -7 -8 -9
+-7 -8 -7 -9
+-7 -8 -8 -7
+#
